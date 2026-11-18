@@ -1,0 +1,9 @@
+# supplied course files are not redistributed; only the two tables and external.parquet are data in this repo
+data/
+HW4_handout.md
+SUBMISSION.md
+check_tables.py
+# local downloads, model weights and intermediate files
+cache/
+__pycache__/
+*.pyc
